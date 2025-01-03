@@ -16,7 +16,7 @@ This repository is dedicated to tracking my progress on weekly projects, buildin
 
 | Month | Week | Project Name          | Description                         | Status        | Link         |
 |-------|------|-----------------------|-------------------------------------|---------------|--------------|
-|January| 1    | **Project Alpha**     | A simple calculator using Python.  | ✅ Completed  | [Repo](#)    |
+|January| 1    | **Database ecommers optimization**     | create index, partitioning table, function, and store procedure.  | ✅ Completed  | [Repo](https://github.com/fajri-yanti/database-optimization-ecommers)    |
 |       | 2    | **Project Beta**      | Personal portfolio website.        | 🔄 In Progress | [Repo](#)   |
 |       | 3    | **Project Gamma**     | REST API with Flask.               | 🚧 Planned    | [Repo](#)    |
 
