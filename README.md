@@ -16,8 +16,8 @@ This repository is dedicated to tracking my progress on weekly projects, buildin
 | Month | Week | Project Name          | Description                         | Status        | Link         |
 |-------|------|-----------------------|-------------------------------------|---------------|--------------|
 |January| 1    | **Database ecommers optimization**     | create index, partitioning table, function, and store procedure.  | ✅ Completed  | [Repo](https://github.com/fajri-yanti/database-optimization-ecommers)    |
-|       |      | **8 Week SQL Challenge**      | SQL Challenge Week 1.        | ✅ Completed | [Repo](https://github.com/fajri-yanti/8-week-sql-challenge)   |
-|       |     | **Project Gamma**     | REST API with Flask.               | 🚧 Planned    | [Repo](#)    |
+|       | 2    | **8 Week SQL Challenge**      | SQL Challenge Week 1.        | ✅ Completed | [Repo](https://github.com/fajri-yanti/8-week-sql-challenge)   |
+|       |      | **Project Gamma**     | REST API with Flask.               | 🚧 Planned    | [Repo](#)    |
 
 
 ---
