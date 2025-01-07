@@ -2,7 +2,7 @@
 
 ## objective
 This repository is dedicated to tracking my progress on weekly projects, building consistency in coding, and sparking my curiosity
----
+
 
 ## Table of Contents
 1. [Objective](#objective)
